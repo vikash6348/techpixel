@@ -1,0 +1,7 @@
+streamlit
+# groq
+google-generativeai
+requests
+openai
+nltk
+# streamlit.components.v1
